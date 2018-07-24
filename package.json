@@ -1,0 +1,19 @@
+{
+  "name": "pr-tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Tests good\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iainsmith/pr-tester.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iainsmith/pr-tester/issues"
+  },
+  "homepage": "https://github.com/iainsmith/pr-tester#readme"
+}
